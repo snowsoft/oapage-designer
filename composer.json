@@ -13,8 +13,8 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "snowsoft/oackeditor": "~v0.0001",
-        "snowsoft/open-admin": "~1.0.14"
+        "snowsoft/oackeditor": "~0.01",
+        "snowsoft/open-admin": "~v0.01"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
