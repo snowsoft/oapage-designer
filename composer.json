@@ -3,7 +3,7 @@
     "description": "Page designer for open admin",
     "type": "library",
     "keywords": ["open-admin", "page", "designer","free","random"],
-    "homepage": "https://github.com/open-admin-org/page-designer",
+    "homepage": "https://github.com/snowsoft/oapage-designer",
     "license": "MIT",
     "authors": [
         {
@@ -13,8 +13,8 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "open-admin-ext/ckeditor": "~1.0",
-        "open-admin-org/open-admin": "~1.0.14"
+        "snowsoft/oackeditor": "~v0.0001",
+        "snowsoft/open-admin": "~1.0.14"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
